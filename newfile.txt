@@ -1,2 +1,5 @@
 1 
 github oyrenirik
+
+
+bu versiya 1-dir
